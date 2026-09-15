@@ -7,3 +7,6 @@ cocos 官网 一步两步 教程demo
 ** 还存在的问题
  - 显示的跳数 会跟着走  ；
  - 摄像头 属性 还不是很明白；
+ - 修改 roadLength 需要在ui引入组件中修改；
+
+ <img src="./demo.png" width="400" />
